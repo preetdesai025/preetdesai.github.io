@@ -1,7 +1,3 @@
-This is my Portfolio created using github pages and a free HTML5 template. 
-While I didn't write the code I learned a lot about HTML and CSS by editing and modifying the template to fit my preferences. 
-preetdesai025.github.io is live so go on and learn a bit about me.
-
 Prologue by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
